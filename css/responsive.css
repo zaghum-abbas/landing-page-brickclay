@@ -1,0 +1,133 @@
+@media only screen and (max-width: 1199px) {
+  html {
+    font-size: 50%;
+  }
+}
+
+@media only screen and (max-width: 992px) {
+  .custom-container {
+    padding: 0 2rem;
+  }
+
+  .pt-90 {
+    padding-top: 5rem;
+  }
+
+  .pb-90 {
+    padding-bottom: 5rem;
+  }
+
+  .pt-50 {
+    padding-top: 3rem;
+  }
+
+  .pb-50 {
+    padding-bottom: 3rem;
+  }
+
+  html {
+    font-size: 45%;
+  }
+
+  .growth-section .column-border {
+    border-right: 0;
+    border-bottom: 1px solid #e6e9ef;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  .growth-section .column_side_border.review-inner-box-last-child {
+    border-bottom: 0;
+  }
+
+  .growth-section .nav-pills {
+    position: relative;
+    top: -30px;
+  }
+
+  .growth-section .nav-item .nav-link {
+    padding: 3rem 0;
+  }
+
+  .review-inner-box {
+    border-right: 0;
+    border-bottom: 1px solid rgba(112, 112, 112, 0.7);
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  .new-case-section .top-box .card .card-body {
+    padding: 3rem;
+  }
+
+  .new-case-section .new-case-card {
+    position: relative;
+    top: -60px;
+  }
+
+  .custom-navbar .navbar .navbar-brand {
+    min-height: auto;
+  }
+
+  .custom-navbar .navbar .navbar-brand {
+    border: 0;
+  }
+
+  .navbar_search_btn {
+    border-top: 1px solid #ffffff;
+    border-bottom: 1px solid #ffffff;
+    width: 100%;
+    min-height: 4rem;
+  }
+
+  .custom-navbar .navbar .navbar-nav .nav-item .nav-link {
+    padding: 1rem 0;
+  }
+}
+
+@media only screen and (max-width: 576px) {
+  .pt-90 {
+    padding-top: 3rem;
+  }
+
+  .pb-90 {
+    padding-bottom: 3rem;
+  }
+
+  html {
+    font-size: 45%;
+  }
+
+  .new-case-section .top-box .card .card-body {
+    padding: 2rem;
+  }
+
+  .header-section .slider-header-box .header-heading {
+    font-size: 6rem;
+    line-height: normal;
+  }
+
+  .real-world-experience .content .heading {
+    font-size: 3rem;
+  }
+
+  .leading-market-section .content-section .heading,
+  .new-case-section .content .heading,
+  .protect-business-section .content .heading,
+  .QA-section .heading,
+  .customer-reviews aside .heading {
+    font-size: 3rem;
+    line-height: normal;
+  }
+
+  .protect-business-section .content .btn_discover_more,
+  .header-section .slider-header-box .header-discover-btn {
+    padding: 1rem 2rem;
+  }
+
+  .carousel-custom-btns img,
+  .real-world-left-icon,
+  .real-world-right-icon {
+    width: 10%;
+  }
+}
